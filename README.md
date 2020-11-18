@@ -9,7 +9,7 @@
 <p align="center"> A simple implementation of the snake game in python using the pygame library </p>
 
 
-<img align="center" src"https://github.com/lukasqw/SnakeGame/blob/master/SnakeGif.gif">
+<img src"https://github.com/lukasqw/SnakeGame/blob/master/SnakeGif.gif">
 
 ## :arrow_forward: How to run
 
