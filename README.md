@@ -1,21 +1,18 @@
 <h1 align="center"> :snake: Snake Game </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=python&message=>= 3.0.0&color=green&style=flat"/>
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lukasqw/SnakeGame">
+    [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+    [![Python 3.0.0+](https://img.shields.io/badge/python-3.0.0+-green.svg)](https://www.python.org)
     <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/lukasqw/SnakeGame">
 </p>
 
 <p align="center"> A simple implementation of the snake game in python using the pygame library </p>
 
-<<<<<<< HEAD
 <p align="center">
     <img src="https://github.com/lukasqw/SnakeGame/blob/master/SnakeGif.gif?raw=true">
 </p>
-=======
 
 <img src"https://github.com/lukasqw/SnakeGame/blob/master/SnakeGif.gif">
->>>>>>> 6f10c1df96b192fb8c51855653fa8949ae2a5f5a
 
 ## :arrow_forward: How to run
 
