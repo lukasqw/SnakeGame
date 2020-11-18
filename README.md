@@ -1,7 +1,6 @@
 <h1 align="center"> :snake: Snake Game </h1>
 
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg">
     <img alt="Python" src="https://img.shields.io/badge/python-3.0.0+-green.svg">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lukasqw/SnakeGame">
     <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/lukasqw/SnakeGame">
@@ -12,8 +11,6 @@
 <p align="center">
     <img src="https://github.com/lukasqw/SnakeGame/blob/master/SnakeGif.gif?raw=true">
 </p>
-
-<img src"https://github.com/lukasqw/SnakeGame/blob/master/SnakeGif.gif">
 
 ## :arrow_forward: How to run
 
